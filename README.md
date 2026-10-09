@@ -63,6 +63,9 @@ function saludar(nombre){
   return `hola, ${nombre}`;
 }
 ```
+___
+***
+---
 
 
 [Enlace a github](https://github.com/sophiarequiao)
@@ -73,6 +76,23 @@ function saludar(nombre){
 
 [enlace relativo](./docs/guia.md)
 
+8. Líneas horizontales
+
+[ir a la seción](#8-Líneas-horizontales)
+
+<img width="678" height="452" alt="images" src="https://github.com/user-attachments/assets/beb8e898-6ffc-451a-827c-13d1dbc087c6" />
+
+
+| elemento | etiqueta | ejemplo |
+|:---------|:--------:|--------:|
+| Negrita  | <strong> | **hola**| 
+
+Markdown nasci o en 2004 [^1]
+
+[^1]: Creado por John Gruber y Aaron Swartz
+
+👍
+$E=mc^2$
 
 
 
